@@ -3,7 +3,7 @@
 <h3 align="center">Hello, World! 🖖🏻🌎</h3>
 
 
-## 📚 Bio
+## 📚 Bio:
 🧭 Immersed in the boundless universe of technology, I navigate through intricate lines of code, solving challenges, and crafting innovative solutions.
 
 🎓 Currently, I find myself in the enriching role of a programming tutor for kids at Happy Code, while simultaneously delving into the depths of Software Engineering in my studies. My passion for continuous learning and the art of teaching propels me forward in this dynamic landscape.
