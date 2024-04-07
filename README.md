@@ -29,13 +29,13 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ipullynnhah&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=i-paula&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ipullynnhah&theme=dracula&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-paula&theme=dracula&hide_border=true)
 
 ## 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipullynnhah&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=i-paula&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✍️ Random Dev Quote
 
