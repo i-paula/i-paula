@@ -10,6 +10,10 @@
 
 🧰 In my toolkit, I excel in: React, Node, JavaScript, TypeScript, Express, SQL, NoSQL, Python, HTML, and CSS. Beyond the technical skills, my soft skills, such as resilience and proactivity, are crucial on my professional journey.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@ipullynnhah/30-nites-of-code)  
+  ![@ipullynnhah #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ipullynnhah)
+  
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
