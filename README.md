@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Paula's Banner">
+[Paula's Banner](https://ibb.co/dc79gkY)
 
 <h1 align="center">Hello, World! 🖖🏻🌎</h1>
 
