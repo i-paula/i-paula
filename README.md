@@ -1,4 +1,4 @@
-[Paula's Banner](https://ibb.co/dc79gkY)
+[![banner.png](https://i.postimg.cc/5yvQ4zSR/banner.png)](https://postimg.cc/fSzR5JFc)
 
 <h1 align="center">Hello, World! 🖖🏻🌎</h1>
 
