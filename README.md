@@ -4,15 +4,14 @@
 
 
 ## 📚 Bio:
-🧭 Immersed in the boundless universe of technology, I navigate through intricate lines of code, solving challenges, and crafting innovative solutions.
 
-🎓 Currently, I find myself in the enriching role of a programming tutor for kids at Happy Code, while simultaneously delving into the depths of Software Engineering in my studies. My passion for continuous learning and the art of teaching propels me forward in this dynamic landscape.
+👩🏻‍🏫 Day by day, I immerse myself in the world of coding, and by night, I eagerly dive into the depths of learning. At Happy, I've transformed my passion for programming into a fulfilling role as a tutor, guiding young minds through the enchanting realms of logic and code.
 
-🧰 In my toolkit, I excel in: React, Node, JavaScript, TypeScript, Express, SQL, NoSQL, Python, HTML, and CSS. Beyond the technical skills, my soft skills, such as resilience and proactivity, are crucial on my professional journey.
+☕️Currently, my journey has led me to embrace the challenges and excitement of Santander Bootcamp 2024 - Backend Java Bootcamp at [DIO](https://www.dio.me/en), where I'm delving into the intricacies of Java development with fervor.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@ipullynnhah/30-nites-of-code)  
-  ![@ipullynnhah #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ipullynnhah)
+🐍 My mind is a boundless repository of technological wonders, housing expertise in a multitude of languages and frameworks including React, Node.js, JavaScript, and the ever-versatile Python.
+
+📚 My interests extend far beyond mere lines of code. I thrive on collaboration and relish the opportunity to overcome obstacles alongside peers. Whether it's discovering the latest groundbreaking framework or unraveling a perplexing coding conundrum with friends, I find true fulfillment in the collective pursuit of knowledge.
   
 ## 💻 Tech Stack:
 
@@ -39,8 +38,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ipullynnhah&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
