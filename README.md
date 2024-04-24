@@ -1,18 +1,17 @@
-# 👩🏻 Paula Rodrigues 🥳
+<img src="assets/banner.png" alt="Paula's Banner">
 
-<h3 align="center">Hello, World! 🖖🏻🌎</h3>
-
+<h1 align="center">Hello, World! 🖖🏻🌎</h1>
 
 ## 📚 Bio:
 
 👩🏻‍🏫 Day by day, I immerse myself in the world of coding, and by night, I eagerly dive into the depths of learning. At Happy, I've transformed my passion for programming into a fulfilling role as a tutor, guiding young minds through the enchanting realms of logic and code.
 
-☕️Currently, my journey has led me to embrace the challenges and excitement of Santander Bootcamp 2024 - Backend Java Bootcamp at [DIO](https://www.dio.me/en), where I'm delving into the intricacies of Java development with fervor.
+☕️Currently, my journey has led me to embrace the challenges and excitement of Santander Bootcamp 2024 - Backend Java at [DIO](https://www.dio.me/en), where I'm delving into the intricacies of Java development with fervor.
 
 🐍 My mind is a boundless repository of technological wonders, housing expertise in a multitude of languages and frameworks including React, Node.js, JavaScript, and the ever-versatile Python.
 
 📚 My interests extend far beyond mere lines of code. I thrive on collaboration and relish the opportunity to overcome obstacles alongside peers. Whether it's discovering the latest groundbreaking framework or unraveling a perplexing coding conundrum with friends, I find true fulfillment in the collective pursuit of knowledge.
-  
+
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +20,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 ## 📊 GitHub Stats:
 
@@ -41,6 +38,5 @@
 ## ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
